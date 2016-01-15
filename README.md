@@ -1,2 +1,1 @@
-# TestGitHub
-Github repository for ITSM
+Test Github is a repository for IT Service Management Subject
