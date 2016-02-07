@@ -1,0 +1,59 @@
+.cleaner{clear: all;}
+.l20{left: 20px;}
+
+html{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	background-image: url("img/bg1.png");
+}
+
+.wrapper{
+	width: 700px;
+	margin: 20px auto;
+}
+
+.header{
+	height: 100px;
+	background-image: url("img/header.jpg");
+	background-color: green;
+}
+
+.content{
+	border-width: 0.1em solid;
+	min-height: 400px;
+	background-color: #66ff66;
+}
+
+.section1{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.lblHotel{
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.colorRed{
+	font color="red";
+}
+
+select{
+	height: 30px;
+}
+
+table{
+	margin-left: 20px;
+}
+
+.content a{
+	text-decoration: none;
+}
+
+p{
+	margin-left: 20px;
+}
